@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "rpnnet01",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "8d647ab3-ae01-476e-854b-ee6b9ff472df",
+      "database_name": "D1-template-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
